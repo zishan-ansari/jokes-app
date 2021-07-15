@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+ body{
+     background-image: url("https://pngimg.com/uploads/minions/minions_PNG25.png");
+    background-color: palegoldenrod;
+    font-family: 'Cookie', cursive;
+    font-family: 'Padauk', sans-serif;
+    margin: 0px;
+    background-repeat:space;
+}
+.container {
+   background-color: lightgoldenrodyellow; 
+   opacity: 0.8;
+    width: 50%;
+    height: 30vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    border: none;
+    box-shadow: 0 8px 6px -6px black;
+    padding:5px;
+    text-align: center;
+    
+    
+    
+    
+}
+.heading{
+    font-family: 'Stint Ultra Condensed', cursive;
+    color: snow;
+ 
+
+}
+.joke{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: xx-large;
+}
+#jokebtn{
+    margin: 7rem;
+    height: 40px;
+    width: 100px;
+    border: none;
+    font-weight: 700;
+    box-shadow:  3px 5px 6px #ccc;
+    background-color: rgb(73, 87, 94);
+    color: white;
+}
